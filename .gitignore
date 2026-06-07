@@ -1,0 +1,20 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled files
+*.class
+out/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Local transaction data
+transactions.txt
